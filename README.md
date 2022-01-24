@@ -15,5 +15,7 @@
 
 ## ⚙️GitHub Analytics
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dejmenek&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejmenek&langs_count=6&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dejmenek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align = "center"/>
+</p>
