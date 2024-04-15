@@ -1,17 +1,13 @@
-## Hi there 👋
+<img width="1579" alt="Make your README" src="https://github.com/Dejmenek/Dejmenek/assets/83865666/ba367b72-ce1c-4787-9af8-30fc1e0843e5">
 
-## 🛠Tech Stack
+## About Me
 
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
-![](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoCOlor=white)&nbsp;
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+## 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,visualstudio)](https://skillicons.dev)
+![SQL Server](https://github.com/Dejmenek/Dejmenek/assets/83865666/5d1e7472-9de9-4817-be5e-7a9714f8930c)
+![Entity Framework Core](https://github.com/Dejmenek/Dejmenek/assets/83865666/c807eed6-7532-47c9-b09c-4f3e9dcd00fd)
+
+
 
 
 ## ⚙️GitHub Analytics
