@@ -17,6 +17,9 @@ My technical school background provides a solid base, and I'm actively expanding
 ![MS Test](https://github.com/Dejmenek/Dejmenek/assets/83865666/f6590469-894f-4e79-bdf2-4699b0b70d83)
 ![Swagger](https://github.com/Dejmenek/Dejmenek/assets/83865666/9aab058e-a72f-49eb-9430-2177e12c2380)
 
+## 🔨 Contributed To
+
+[<img src="https://github.com/user-attachments/assets/069df91f-e41a-449a-bc92-77904e7b2340" height="50px">](https://github.com/TheCSharpAcademy/TCSA.V2026/pulls?q=is%3Apr+author%3ADejmenek+is%3Aclosed)
 
 ## ⚙️GitHub Analytics
 
