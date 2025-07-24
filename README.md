@@ -19,6 +19,8 @@ My technical school background provides a solid base, and I'm actively expanding
 
 ### **Testing**
 <div align="center">
+  <img width="48" height="48" alt="nsubstitute" src="https://github.com/user-attachments/assets/6e89be17-efb5-4b11-8ccd-db2326e13cee" />
+  <img width="49" height="49" alt="xUnit" src="https://github.com/user-attachments/assets/8b006b96-898f-4bab-851b-d4ef1525dfcb" />
 </div>
 
 ### **Tools**
