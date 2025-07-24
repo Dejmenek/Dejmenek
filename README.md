@@ -10,12 +10,39 @@ My technical school background provides a solid base, and I'm actively expanding
 - 🙋‍♂️ I am looking to collaborate on fun and challenging personal projects or open source projects
 
 ## 🧰 Tech Stack
+<div align="center">
+  
+### **Languages & Frameworks**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,visualstudio,vscode,git,mysql,windows,docker)](https://skillicons.dev)
-![SQL Server](https://github.com/Dejmenek/Dejmenek/assets/83865666/5d1e7472-9de9-4817-be5e-7a9714f8930c)
-![Entity Framework Core](https://github.com/Dejmenek/Dejmenek/assets/83865666/c807eed6-7532-47c9-b09c-4f3e9dcd00fd)
-![MS Test](https://github.com/Dejmenek/Dejmenek/assets/83865666/f6590469-894f-4e79-bdf2-4699b0b70d83)
-![Swagger](https://github.com/Dejmenek/Dejmenek/assets/83865666/9aab058e-a72f-49eb-9430-2177e12c2380)
+### **Testing**
+<div align="center">
+</div>
+
+### **Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,docker" />
+</div>
+
+### **IDEs & Text Editors**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+</div>
+
+### **Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://github.com/Dejmenek/Dejmenek/assets/83865666/5d1e7472-9de9-4817-be5e-7a9714f8930c" />
+</div>
+
+### **OS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</div>
+
+</div>
 
 ## 🔨 Contributed To
 
